@@ -1,0 +1,8 @@
+pip~=24.0
+Django~=5.0.6
+asgiref~=3.8.1
+sqlparse~=0.5.0
+setuptools~=65.5.0
+python-dotenv~=1.0.1
+### for macos and linux install psycopg2-binary
+psycopg2
